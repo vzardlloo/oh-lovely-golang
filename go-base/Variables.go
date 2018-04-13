@@ -13,7 +13,7 @@ func main() {
 	_, girl2 := "hahaha", "hehehe"
 	fmt.Println(girl2)
 
-	const Pi = 3.1415926
+	const Pi = 3.14159
 	fmt.Println(Pi)
 	var enabled = true
 	fmt.Println(enabled)
